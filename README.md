@@ -1,2 +1,2 @@
-# thehitchhamstersguidetothegalaxy.github.io
+# thehitchhamstersguidetothegalaxy
 Blog
